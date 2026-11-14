@@ -1,0 +1,14 @@
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\bin\Debug\net10.0\CalculadoraExpresionMate.exe
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\bin\Debug\net10.0\CalculadoraExpresionMate.deps.json
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\bin\Debug\net10.0\CalculadoraExpresionMate.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\bin\Debug\net10.0\CalculadoraExpresionMate.dll
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\bin\Debug\net10.0\CalculadoraExpresionMate.pdb
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\obj\Debug\net10.0\CalculadoraExpresionMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\obj\Debug\net10.0\CalculadoraExpresionMate.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\obj\Debug\net10.0\CalculadoraExpresionMate.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\obj\Debug\net10.0\CalculadoraExpresionMate.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\obj\Debug\net10.0\CalculadoraExpresionMate.dll
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\obj\Debug\net10.0\refint\CalculadoraExpresionMate.dll
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\obj\Debug\net10.0\CalculadoraExpresionMate.pdb
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\obj\Debug\net10.0\CalculadoraExpresionMate.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Escritorio\c#\CalculadoraExpresionMate\CalculadoraExpresionMate\obj\Debug\net10.0\ref\CalculadoraExpresionMate.dll

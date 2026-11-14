@@ -1,0 +1,14 @@
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\bin\Debug\net10.0\SimuladorLlamadaTelefonica.exe
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\bin\Debug\net10.0\SimuladorLlamadaTelefonica.deps.json
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\bin\Debug\net10.0\SimuladorLlamadaTelefonica.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\bin\Debug\net10.0\SimuladorLlamadaTelefonica.dll
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\bin\Debug\net10.0\SimuladorLlamadaTelefonica.pdb
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\obj\Debug\net10.0\SimuladorLlamadaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\obj\Debug\net10.0\SimuladorLlamadaTelefonica.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\obj\Debug\net10.0\SimuladorLlamadaTelefonica.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\obj\Debug\net10.0\SimuladorLlamadaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\obj\Debug\net10.0\SimuladorLlamadaTelefonica.dll
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\obj\Debug\net10.0\refint\SimuladorLlamadaTelefonica.dll
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\obj\Debug\net10.0\SimuladorLlamadaTelefonica.pdb
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\obj\Debug\net10.0\SimuladorLlamadaTelefonica.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Escritorio\c#\SimuladorLlamadaTelefonica\SimuladorLlamadaTelefonica\obj\Debug\net10.0\ref\SimuladorLlamadaTelefonica.dll
