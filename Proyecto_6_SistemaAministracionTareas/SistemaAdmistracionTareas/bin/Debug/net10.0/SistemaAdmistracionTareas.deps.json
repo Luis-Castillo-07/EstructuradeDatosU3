@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SistemaAdmistracionTareas/1.0.0": {
+        "runtime": {
+          "SistemaAdmistracionTareas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaAdmistracionTareas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
